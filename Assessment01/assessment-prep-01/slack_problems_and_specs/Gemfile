@@ -1,0 +1,14 @@
+
+#make sure rspec file has require 'filename of file it is testing'
+#run bundle install
+# frozen_string_literal: true
+# A sample Gemfile
+source "https://rubygems.org"
+
+gem 'rspec'
+
+gem 'byebug'
+
+gem 'colorize'
+
+# gem "rails"
